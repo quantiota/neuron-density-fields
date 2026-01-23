@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the generated figures, please cite this repository."
+title: "Neuron Density Fields (3D–5D)"
+authors:
+  - family-names: Mahi
+    given-names: Bouarfa
+    affiliation: Quantiota
+    email: info@quantiota.org
+version: 1.0.0
+date-released: 2026-01-01
+url: https://github.com/quantiota/neuron-density-fields
+abstract: >
+  This repository provides reproducible scripts and figures for constructing
+  spatially coherent neuron density fields in 3D, 4D, and 5D using Simplex noise.
+  The density fields are designed as heterogeneous substrates for neural field
+  models, geometric learning frameworks, and brain-inspired computation, with
+  smooth bounded gradients suitable for metric and geodesic constructions.
+keywords:
+  - neuron density
+  - neural fields
+  - simplex noise
+  - high-dimensional fields
+  - geometry
+  - complex systems
+  - brain-inspired computing
+license: MIT
