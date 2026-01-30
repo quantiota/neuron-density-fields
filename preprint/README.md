@@ -4,7 +4,7 @@
 Introduce Riemannian Neural Fields (RNF) as an entropy-driven system operating in curved geometric spaces using Simplex-generated substrates.
 
 ## 1. Introduction
-Define the limitations of Euclidean parameter spaces in capturing the non-linear structures of continuous domains.
+Standard Euclidean parameter spaces assume flat, uniform geometry and therefore fail to represent the curved, heterogeneous, and non-linear structures inherent to continuous neural and information domains
 
 ## 2. Theoretical Substrate
 Explain the metric tensor $\( g_{ij}(r) \)$ and its dependence on density gradients $\( \nabla \rho \)$.
